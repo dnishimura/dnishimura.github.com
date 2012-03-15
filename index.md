@@ -24,7 +24,7 @@ full_posts: 5
   {% for post in site.posts limit:5 %}
     <li class="bloglist"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
-    <li class="bloglist"><a href="{{ BASE_PATH }}/blog">more...</a></li>
+    <li class="bloglist"><a href="{{ BASE_PATH }}/blog">more blogs...</a></li>
 </ul>
 
 
