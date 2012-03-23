@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Polygot Techie
+title: pol·y·glot
 tagline: Supporting tagline
 full_posts: 5
 ---
